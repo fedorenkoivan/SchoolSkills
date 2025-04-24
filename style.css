@@ -44,7 +44,7 @@ details {
     outline-offset: 0;
 }
 
-:active, :hover, : {
+:active, :hover, :focus {
     outline: 0;
     outline-offset: 0;
 }
